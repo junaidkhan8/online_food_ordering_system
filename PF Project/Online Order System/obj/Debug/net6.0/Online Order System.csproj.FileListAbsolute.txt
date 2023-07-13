@@ -1,0 +1,15 @@
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\bin\Debug\net6.0\Online Order System.exe
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\bin\Debug\net6.0\Online Order System.deps.json
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\bin\Debug\net6.0\Online Order System.runtimeconfig.json
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\bin\Debug\net6.0\Online Order System.dll
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\bin\Debug\net6.0\Online Order System.pdb
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.csproj.AssemblyReference.cache
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.AssemblyInfoInputs.cache
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.AssemblyInfo.cs
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.csproj.CoreCompileInputs.cache
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.dll
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\refint\Online Order System.dll
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.pdb
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\Online Order System.genruntimeconfig.cache
+C:\Users\MEMON ENTERPRISES\Desktop\PF Project\Online Order System\obj\Debug\net6.0\ref\Online Order System.dll
